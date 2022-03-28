@@ -1,0 +1,18 @@
+seg_0903+
+OSILIB\osi_file+
+seg_0A33 seg_0C9C seg_101C+
+seg_1100 seg_1184+
+seg_155X +
+seg_155D+
+seg_16E1 seg_1703 seg_1944+
+seg_1E0F+
+seg_2337 seg_27A1+
+seg_2E2D seg_2F1A+
+seg_2FC1+
+D_2C4A+
+OSILIB\kbd+
+seg_3200 seg_32C3+
+OSILIB\inflate OSILIB\mouse OSILIB\low OSILIB\delay+
+OSILIB\delay2 OSILIB\rand+
+OSILIB\OSISND.LIB+
+bss
