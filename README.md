@@ -29,3 +29,5 @@ The naming of the C files is not friendly at all, and I apologize for that. Mayb
 
 Have a lot of decompiling fun!  
 2022/03/29 ergonomy_joe
+
+PS: when I first decompiled this code, I posted some comments on a [french abandonware related forum](https://www.abandonware-forums.org/), you can take a look [here](https://www.abandonware-forums.org/forum/forum-ltf-abandonware-france/le-bar-des-amis/36760-ultima-vi-les-codes-sources-r%C3%A9g%C3%A9n%C3%A9r%C3%A9s?35874-Ultima-VI-les-codes-sources-r%E9g%E9n%E9r%E9s=).
