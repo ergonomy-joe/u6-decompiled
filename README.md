@@ -18,8 +18,7 @@ Some years ago, someone released **Ultima 6 Technical Documents** online, which 
 Be aware though that these documents refer to an earlier version of the game, and so they do not reflect exactly what is in the code.
 
 
-Concerning the build process:
-
+Concerning the build process:  
 The original game was build with Borland Turbo C 2.0 for the part written in C language (most of the files).
 There are some `asm` files too, I choosed to build them with masm 3.0 and it works well.
 
@@ -28,5 +27,5 @@ Before that, you will need to launch `SRC/OSILIB/doit.bat`. I think I put most o
 
 The naming of the C files is not friendly at all, and I apologize for that. Maybe some renaming will take place in the future ?
 
-Have a lot of decompiling fun!
+Have a lot of decompiling fun!  
 2022/03/29 ergonomy_joe
