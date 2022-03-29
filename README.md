@@ -20,7 +20,7 @@ Be aware though that these documents refer to an earlier version of the game, an
 
 Concerning the build process:  
 The original game was build with Borland Turbo C 2.0 for the part written in C language (most of the files).
-There are some `asm` files too, I choosed to build them with masm 3.0 and it works well.
+There are some `asm` files too, you will need tasm 2.0 and masm 3.0 to build them.
 
 All you need to know for the build process is in the file `SRC/doit.bat` which uses `MAKEFILE`.
 Before that, you will need to launch `SRC/OSILIB/doit.bat`. I think I put most of the `asm` files in there.
