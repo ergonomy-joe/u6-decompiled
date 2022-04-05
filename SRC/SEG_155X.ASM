@@ -1,13 +1,13 @@
-INCLUDE OSILIB/OSI.INC
-
-PUBLIC D_07CC
-
-DSegStart
-D_07CC db 0
-DSegEnd
-
-CSegStart	SEG_155X_TEXT
-;	db 0
-CSegEnd	SEG_155X_TEXT
-
-END
+INCLUDE OSILIB/OSI.INC
+
+PUBLIC D_07CC
+
+DSegStart
+D_07CC db 0
+DSegEnd
+
+CSegStart	SEG_155X_TEXT
+;	db 0
+CSegEnd	SEG_155X_TEXT
+
+END
