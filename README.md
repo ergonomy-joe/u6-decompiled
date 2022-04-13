@@ -67,7 +67,7 @@ PS: when I first decompiled this code, I posted some comments on a [french aband
 	1. >a:
 	1. >mkdir D:\TASM
 	1. >unzip TASM.ZIP D:\TASM
-	1. >copy A:\TASM.EXE C:\TOOLS\TASM200.EXE
+	1. >copy D:\TASM.EXE C:\TOOLS\TASM200.EXE
 	1. >imgmount -u a
 	1. >imgmount a D:\MSC2.IMG -t floppy
 	1. >copy A:\EXEPACK.EXE C:\tools
